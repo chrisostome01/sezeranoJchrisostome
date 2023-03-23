@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 - :telescope: I am a fullstack developer.
 - :mailbox:Inbox me: <a href="sezeranochrisostom123@gmail.com">sezeranochrisostom123@gmail.com</a>
-- :seedling: I'm currently learning NodeJs , android , java and also laravel 
+- :seedling: I'm currently learning typscript | react | nextjs | docker | nodejs
 - :dancers: I'm looking to collaborate on ReactJs and Ethereum Smart Contract 
 - :flag-rw: Rwandan #Africa
 - :zap: The better you learn, the better ... :smile: 
