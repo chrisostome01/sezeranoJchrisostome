@@ -10,14 +10,14 @@
 - :zap: The better you learn, the better ... :smile: 
 
 
-```javascript
+<!--- ```javascript
 const chrysostome = {
   fullNames: "Sezerano Jean Chrysostome",
   languages: [Javascript, Typescript, PHP],
   misc: [Docker, ...]
 }
 ```
-
+-->
 
 
 
