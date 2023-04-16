@@ -1,23 +1,25 @@
 
 
-<!--
-**sezeranoJchrisostome/sezeranoJchrisostome** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello @everyone :wave:, I am Sezerano Jean Chrysostome.
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Tech Stack
 
-- :telescope: I'm currently working on ...
-- :seedling: I'm currently learning ...
-- :dancers: I'm looking to collaborate on ...
-- :thinking_face: I'm looking for help with ...
-- :speech_balloon: Ask me about ...
-- :mailbox: How to reach me: ...
-- :smile: Pronouns: ...
-- :zap: Fun fact: ...
--->
-
-## Hello @everyone :wave:, This is Sezerano Jean Chrysostome here.
-
-### Skills
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=092E20)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 
  
 <p>
@@ -40,10 +42,6 @@ Here are some ideas to get you started:
  
 </p>
 
-<!-- <a href="#">
-<img alt="Python" src="https://camo.githubusercontent.com/5244f61000e6f7ad90af49f818e0ba86aa60bd1006bb6436aa2a415b69357d18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d2a" data-canonical-src="https://img.shields.io/badge/-Python-*" style="max-width: 100%;"> <img alt="MongoDB" src="https://camo.githubusercontent.com/8525e7e6900fc4c5546b0442f8a2f187b802e9f40d431ac7394d2c1509234ad9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"> </a> -->
-<!-- <a href="https://camo.githubusercontent.com/f0b95394ffc005b03c6f4fdad0c7acc8e6a4007f5bf1508aa684fffcd1191aa2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" rel="nofollow"><img alt="Heroku" src="https://camo.githubusercontent.com/f0b95394ffc005b03c6f4fdad0c7acc8e6a4007f5bf1508aa684fffcd1191aa2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"> </a> -->
-
 
 ### Intro.
 
@@ -51,8 +49,5 @@ Here are some ideas to get you started:
 - :mailbox:Inbox me: <a href="sezeranochrisostom123@gmail.com">sezeranochrisostom123@gmail.com</a>
 - :seedling: I'm currently learning typscript | react | nextjs | docker | nodejs
 - :zap: The better you learn, the better ... :smile: 
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sezeranoJchrisostome&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezeranoJchrisostome&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezeranoJchrisostome&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
