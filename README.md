@@ -6,8 +6,19 @@
 
 - :telescope: I am a fullstack developer.
 - :mailbox:Inbox me: <a href="sezeranochrisostom123@gmail.com">sezeranochrisostom123@gmail.com</a>
-- :seedling: I'm currently learning typscript | react | nextjs | docker | nodejs
+- :seedling: I'm currently 
 - :zap: The better you learn, the better ... :smile: 
+
+
+```javascript
+const chrysostome = {
+  fullNames: "Sezerano Jean Chrysostome",
+  languages: [Javascript, Typescript, PHP],
+  misc: [Docker, ...]
+}
+```
+
+
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -36,5 +47,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
 
 
+<h3> :chart: &nbsp;GitHub Stats </h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezeranoJchrisostome&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sezeranoJchrisostome&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
