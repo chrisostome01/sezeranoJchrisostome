@@ -50,3 +50,16 @@ const chrysostome = {
 <h3> :chart: &nbsp;GitHub Stats </h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezeranoJchrisostome&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sezeranoJchrisostome&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=sezeranoJchrisostome)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sezeranoJchrisostome&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=sezeranoJchrisostome&icon=0&color=0)](https://visitcount.itsvg.in)
