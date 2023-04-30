@@ -1,5 +1,3 @@
-
-
 ## Hello :wave:, I am Sezerano Jean Chrysostome.
 
 ### ℹ️ Intro.
