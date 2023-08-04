@@ -4,7 +4,6 @@
 
 - :telescope: I am a fullstack developer.
 - :mailbox:Inbox me: <a href="sezeranochrisostom123@gmail.com">sezeranochrisostom123@gmail.com</a>
-<!-- - :seedling: I'm currently  -->
 - :zap: The better you learn, the better ... :smile: 
 
 
