@@ -2,19 +2,21 @@
 
 ### ℹ️ Intro.
 
-- :telescope: I am a fullstack developer.
-- :mailbox:Inbox me: <a href="sezeranochrisostom123@gmail.com">sezeranochrisostom123@gmail.com</a>
-- :zap: The better you learn, the better ... :smile: 
-
-
-<!--- ```javascript
+```javascript
 const chrysostome = {
   fullNames: "Sezerano Jean Chrysostome",
+  email: 'sezeranochrisostom123@gmail.com',
   languages: [Javascript, Typescript, PHP],
-  misc: [Docker, ...]
+  misc: [Docker, ...readyToExpandIt ]
 }
 ```
--->
+
+### ℹ️ About me.
+
+Hey there, I'm @sezeranoJchrisostome! I've got a thing for Web apps, AI, and Mobile apps – they're my playground. But here's the real scoop: I'm all about learning together and collaborating on cool projects!
+
+I find joy in crafting digital experiences that make life easier and more enjoyable. Whether it's the elegance of a web app, the possibilities of AI, or the convenience of a mobile app, I'm hooked.🚀👩‍💻
+
 
 ### 🛠 &nbsp;Tech Stack
 
