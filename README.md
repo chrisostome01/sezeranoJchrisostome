@@ -34,13 +34,6 @@ const chrysostome = {
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)&nbsp;
-![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)&nbsp;
-![redis](https://img.shields.io/badge/redis-redis--stack-red)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
-
 
 <h3> :chart: &nbsp;GitHub Stats </h3>
 
