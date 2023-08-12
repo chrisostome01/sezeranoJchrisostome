@@ -4,16 +4,16 @@
 
 ```javascript
 const chrysostome = {
-  fullNames: "Sezerano Jean Chrysostome",
+  fullname: "Sezerano Jean Chrysostome",
   email: 'sezeranochrisostom123@gmail.com',
-  languages: [Javascript, Typescript, PHP],
+  languages: [Javascript, Typescript, Java, PHP, ],
   misc: [Docker, ...readyToExpandIt ]
 }
 ```
 
 ### ℹ️ About me.
 
-Hey there, I'm @sezeranoJchrisostome! I've got a thing for Web apps, AI, and Mobile apps – they're my playground. But here's the real scoop: I'm all about learning together and collaborating on cool projects!
+I've got a thing for Web apps, AI, and Mobile apps – they're my playground. But here's the real scoop: I'm all about learning together and collaborating on cool projects!
 
 I find joy in crafting digital experiences that make life easier and more enjoyable. Whether it's the elegance of a web app, the possibilities of AI, or the convenience of a mobile app, I'm hooked.🚀👩‍💻
 
@@ -48,8 +48,6 @@ I find joy in crafting digital experiences that make life easier and more enjoya
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezeranoJchrisostome&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sezeranoJchrisostome&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sezeranoJchrisostome&icon=0&color=0)](https://visitcount.itsvg.in)
