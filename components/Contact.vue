@@ -12,7 +12,7 @@
               v-motion-slide-visible-bottom
               class="w-full flex justify-center items-center gap-4"
             >
-              <span class="text-green-500 font-semibold text-lg">06.</span>
+              <span class="text-green-500 font-semibold text-lg">03.</span>
               <span class="font-semibold text-green-500 text-lg truncate"
                 >What’s Next?</span
               >

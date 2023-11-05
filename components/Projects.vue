@@ -8,7 +8,7 @@
             id="projects"
             class="section w-full flex items-center gap-4"
           >
-            <span class="text-green-500 font-semibold text-lg">04.</span>
+            <span class="text-green-500 font-semibold text-lg">02.</span>
             <span class="font-semibold text-white text-xl md:text-base truncate"
               >Take a look at the latest projects I’ve done</span
             >
@@ -81,44 +81,18 @@
 <script setup lang="ts">
 const projects = [
   {
-    link: "https://exclsv.vercel.app/",
-    category: "ecomerce",
-    stack: ["nextjs", "nodejs", "postgress", "prisma", "aws"],
-    name: "Exclsv ",
-    image: "/projects/exclsv.png",
-    description: `exclsv is full feature and battery included ecomerce platform with al features ready to be sold to any one who wants to start an online business without hassles.`,
-  },
-  {
-    link: "http://nockira.com/",
-    category: "E-learning",
-    stack: ["nextjs", "firebase", "tailwind", "react", "GCP"],
-    name: "Nockira ",
-    image: "/projects/nockira.png",
-    description: `nockira is an e-learnign platform that provides students with resouses which will help them learn traffic rules and get licences soon and faster than ever`,
-  },
-  {
-    link: "https://johnliquors.com/",
-    category: "ecomerce",
-    stack: ["nextjs", "nodejs", "firebase", "tailwind", "algolia"],
-    name: "Johnliquors ",
-    image: "/projects/johnliquors.png",
-    description: `Johnliquors is an online liquor store that provides and delivers liquors to your doorstep within a less a mout of time with many flavour and types of beverages available to you`,
-  },
-  {
-    link: "https://www.johnbroker.rw/",
-    category: "real estate",
-    stack: ["nextjs", "tailwind", "supabase", "react"],
-    name: "JohbBroker",
-    image: "/projects/johnbroker.png",
-    description: `JOHN BROKER makes finding real estate simple: you can filter properties by type, size, price, beds, baths, location and more.`,
-  },
-  {
-    link: "https://www.libra.rw/",
-    category: "movie streaming",
-    stack: ["nextjs", "tailwind", "firebase", "react"],
-    name: "Libra ",
-    image: "/projects/libra.png",
-    description: `Libra is a movie streaming platform aiming to provide the best translated movies out there with a less subcription per month and deliver them on time.`,
+    link: "https://hey.bild.de/",
+    category: "AI, OpenAi",
+    stack: ["React", "Typeorm", "postgress", "redis", "aws", "OpenAi"],
+    name: "Hey bild",
+    image: "/projects/hey.png",
+    description: `Hey_ is an exciting new service from Axel Springer, launching initially on BILD. This innovative AI assistant, 
+    created and fine-tuned by Axel Springer using a combination of GPT models, offers users a fresh, interactive, and individual 
+    approach to experiencing journalistic topics through artificial intelligence. Additionally, Hey_ grants open access to ChatGPT's 
+    extensive knowledge base and has plans to incorporate more AI models in the future. Its mission is to establish BILD as a trusted 
+    hub for AI applications, serving a diverse user community. At its outset, Hey_ will focus on topics like nutrition, finance, travel, 
+    and also provide engaging elements such as personalized children's bedtime stories and quizzes. The range of topics will expand gradually 
+    with input from the editorial team.`,
   },
 ];
 </script>
