@@ -23,21 +23,15 @@
 
           <div class="leading-loose text-gray-400">
             <p class="mt-5">
-              Hi There! 👋, I' am
-              <a href="#" class="tagline">Sezerano Jean Chrysostome</a>. a passionate
-              software engineer based in
-
-              <a class="tagline">Rwanda</a>
-              focused in innovating special software to solve a problem while i
-              work.
+              Hey there! 👋 I'm Sezerano Jean Chrysostome, a software enthusiast.
+              I'm all about crafting innovative solutions, and I've got a special 
+              for rockets and space exploration. 
             </p>
             <p class="mt-3">
               I am experienced in developing
-              <a href="#" class="tagline">Websites</a>
-              &
-              <a href="#" class="tagline">Mobile</a>
-              applications and the <a>Backend</a> using some of the popular tech
-              stack out there.
+              <a href="#" class="tagline">Web Application</a> &
+              <a href="#" class="tagline">Mobile App</a>
+              applications and the <a href="#" class="tagline">Backend [NodeJs]</a>
             </p>
           </div>
           <div v-motion-slide-visible-once-left class="pt-12 md:hidden">

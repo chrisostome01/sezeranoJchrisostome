@@ -3,8 +3,8 @@
     <div
       class="px-10 flex flex-col justify-between h-full md:p-10 pt-28 pb-10 w-full"
     >
-      <div class="w-full">
-        <div class="flex items-center max-w-xl mx-auto justify-between w-full">
+      <div class="w-full flex items-center justify-center">
+        <div class="flex items-center max-w-xl justify-center w-full">
           <div
             class="flex flex-col justify-center items-center gap-4 text-center"
           >
@@ -24,14 +24,6 @@
             >
               Get In Touch.
             </h4>
-            <p
-              v-motion-slide-visible-bottom
-              class="text-lg text-gray-400 leading-8"
-            >
-              The best way to reach me is by clicking the botton bellow. Whether
-              you have a question or just want to say hi, I’ll try my best to
-              get back to you!
-            </p>
             <a
               href="mailto:sezeranochrisostom123@gmail.com"
               v-motion-slide-visible-bottom

@@ -9,12 +9,12 @@ export default defineNuxtConfig({
         {
           hid: "og:image",
           property: "og:image",
-          content: "/og.PNG",
+          content: "/og.png",
         },
         {
           name: "description",
           content:
-            "Hi There! 👋, I' am Sezerano Jean Chrysostome, a passionate  software engineer based in Rwanda focused in innovating special software to solve a problem while i work.",
+            "Hey there! 👋 I'm Sezerano Jean Chrysostome, a software enthusiast. I'm all about crafting innovative solutions, and I've got a special for rockets and space exploration.",
         },
       ],
     },

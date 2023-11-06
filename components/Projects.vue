@@ -10,7 +10,7 @@
           >
             <span class="text-green-500 font-semibold text-lg">02.</span>
             <span class="font-semibold text-white text-xl md:text-base truncate"
-              >Take a look at the latest projects I’ve done</span
+              >Projects</span
             >
             <span class="w-1/3 bg-gray-700 h-[1px] md:hidden"></span>
           </div>
@@ -29,7 +29,7 @@
                 index % 2 === 0
                   ? 'order-1 w-[120%] md:w-full'
                   : 'md:order-1 order-2',
-                ' order-2 p-4 group relative flex items-center justify-center rounded-[4px] bg-gray-800',
+                ' order-2 p-4 group relative flex items-center justify-center rounded-[4px] bg-gray-800 overflow-hidden max-w-full',
               ]"
             >
               <div
@@ -82,7 +82,7 @@
 const projects = [
   {
     link: "https://hey.bild.de/",
-    category: "AI, OpenAi",
+    category: "https://hey.bild.de/",
     stack: ["React", "Typeorm", "postgress", "redis", "aws", "OpenAi"],
     name: "Hey bild",
     image: "/projects/hey.png",
@@ -93,6 +93,24 @@ const projects = [
     hub for AI applications, serving a diverse user community. At its outset, Hey_ will focus on topics like nutrition, finance, travel, 
     and also provide engaging elements such as personalized children's bedtime stories and quizzes. The range of topics will expand gradually 
     with input from the editorial team.`,
+  },
+  {
+    link: "https://dacade.org/",
+    category: "https://dacade.org/",
+    stack: ["Vue", "React", "Nexts", ""],
+    name: "Dacde",
+    image: "/projects/dacade.png",
+    description: `Peer to peer learning, Dacade makes learning multiplayer`,
+  },
+  {
+    link: "https://lab3.space/",
+    category: "https://lab3.space/",
+    stack: ["react-spring", "React", "framer-motion"],
+    name: "Dacade",
+    image: "/projects/lab3.png",
+    description: `A music maker's knowledge-sharing community has surfaced on the web's latest incarnation, 
+    harnessing decentralized blockchain technology. This advancement brings with it new tools like ERC20 
+    tokens, NFTs, and DAOs.`,
   },
 ];
 </script>
