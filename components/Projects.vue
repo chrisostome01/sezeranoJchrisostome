@@ -142,7 +142,7 @@ const projects = [
       "Socket.io",
       "Redis",
       "Codeclimate",
-      "Heroku",
+      "CI/CD",
       "Cloud development",
       "GraphQL",
       "Sequelize",
@@ -179,8 +179,8 @@ const projects = [
     stack: ["PHP", "Cloud", "Java", "JSP", "JavaScript"],
     name: "E-prescription",
     image: "/projects/ineza.png",
-    description: `Designed and built an e-prescription system in Java to streamline and enhance daily 
-    operations for healthcare professionals, particularly doctors, improving efficiency and patient care. `,
+    description: `Developed an e-prescription in PHP and Javascript with Java as a proxy backend. The appstreamlined and 
+    enhanced daily operations for healthcare professionals, particularly doctors, improvingefficiency and patient carcare. `,
   },
 ];
 </script>
