@@ -22,6 +22,10 @@
           I look forward to the opportunity to work together and create
           exceptional solutions.
         </p>
+        <p class="mt-3">
+          Find here on <a href="https://www.linkedin.com/in/sezerano-jean-chrysostome-61bb4a1b9/" class="tagline">Linkedin</a> or
+          <a href="https://github.com/sezeranoJchrisostome" class="tagline">Github</a>.
+        </p>
       </div>
       <div class="mt-10">
         <h4 class="font-semibold text-white text-xl truncate">Personal Info</h4>
