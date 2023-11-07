@@ -20,7 +20,11 @@
           class="my-16 md:my-10"
           :key="index"
         >
-          <div :class="['grid md:grid-cols-1 grid-cols-2 gap-2']">
+          <div
+            :class="[
+              'grid md:grid-cols-1 grid-cols-2 gap-2 place-content-center',
+            ]"
+          >
             <a
               :href="project.link"
               target="_blank"
@@ -82,9 +86,19 @@
 const projects = [
   {
     link: "https://hey.bild.de/",
-    category: "https://hey.bild.de/",
-    stack: ["React", "Typeorm", "postgress", "redis", "aws", "OpenAi"],
-    name: "Hey bild",
+    category: "Ape unit",
+    stack: [
+      "React",
+      "Typeorm",
+      "postgress",
+      "redis",
+      "aws",
+      "OpenAi",
+      "Docker",
+      "Cloudwatch",
+      "Sentry",
+    ],
+    name: "Hey_ bild",
     image: "/projects/hey.png",
     description: `Hey_ is an exciting new service from Axel Springer, launching initially on BILD. This innovative AI assistant, 
     created and fine-tuned by Axel Springer using a combination of GPT models, offers users a fresh, interactive, and individual 
@@ -96,21 +110,77 @@ const projects = [
   },
   {
     link: "https://dacade.org/",
-    category: "https://dacade.org/",
-    stack: ["Vue", "React", "Nexts", ""],
-    name: "Dacde",
+    category: "Ape unit, Dacade",
+    stack: ["Vue", "React", "Nexts"],
+    name: "Dacade",
     image: "/projects/dacade.png",
     description: `Peer to peer learning, Dacade makes learning multiplayer`,
   },
   {
     link: "https://lab3.space/",
-    category: "https://lab3.space/",
+    category: "Ape unit",
     stack: ["react-spring", "React", "framer-motion"],
-    name: "Dacade",
+    name: "Lab3",
     image: "/projects/lab3.png",
-    description: `A music maker's knowledge-sharing community has surfaced on the web's latest incarnation, 
-    harnessing decentralized blockchain technology. This advancement brings with it new tools like ERC20 
-    tokens, NFTs, and DAOs.`,
+    description: `Developed and currently maintain the website for Lab3 delivering exceptional performance, handling complex animations seamlessly.`,
+  },
+  {
+    link: "https://unit8.apeunit.com/",
+    category: "Ape unit",
+    stack: ["nextjs", "React"],
+    name: "Dacade",
+    image: "/projects/unit8.png",
+    description: `Developed a React-based website for Unit8 at Ape Unit, showcasing front-end development 
+    expertise and delivering user-friendly, high-performance web solutions.`,
+  },
+  {
+    link: "https://beta.phantom.co/",
+    category: "Andela (ATLP)",
+    stack: [
+      "React",
+      "Redux",
+      "Socket.io",
+      "Redis",
+      "Codeclimate",
+      "Heroku",
+      "Cloud development",
+      "GraphQL",
+      "Sequelize",
+    ],
+    name: "Phantom",
+    image: "/projects/phantom.png",
+    description: `Developed Phantom, an application that addresses the needs of commuters spending time at 
+    bus stations by providing real-time information about bus availability and proximity. Utilized fast 
+    and efficient technologies like Redis, Socket.io, and React to create a time-saving solution.`,
+  },
+  {
+    link: "https://apkcombo.com/ineza-health/com.ishyiga.inezahealth/",
+    category: "Algorithm inc(Ishyga software)",
+    stack: ["PHP", "Cloud", "Adroid", "Java"],
+    name: "Ineza health",
+    image: "/projects/ineza.png",
+    description: `Developed the Ineza healthcare app, enabling users to easily locate medicines at the nearest pharmacies and 
+    book doctor appointments seamlessly based on available schedules. This innovative application simplifies access to essential 
+    healthcare services for the community.`,
+  },
+  {
+    link: "http://urugendo.ishyigago.rw/",
+    category: "Algorithm inc(Ishyga software)",
+    stack: ["PHP", "Cloud", "Java", "JSP", "JavaScript", "SMS integration"],
+    name: "Urugendo",
+    image: "/projects/urugendo.png",
+    description: `Developed a comprehensive fleet management system in PHP and pure JavaScript, enhancing daily driver operations 
+    with detailed performance statistics. This multifaceted solution not only improves operational efficiency and decision-making 
+    but also facilitates driver booking, leveraging a messaging API for real-time notifications.`,
+  },
+  {
+    link: "https://apkcombo.com/ineza-health/com.ishyiga.inezahealth/",
+    category: "Algorithm inc(Ishyga software)",
+    stack: ["PHP", "Cloud", "Java", "JSP", "JavaScript"],
+    name: "E-prescription",
+    image: "/projects/ineza.png",
+    description: `Designed and built an e-prescription system in Java to streamline and enhance daily 
+    operations for healthcare professionals, particularly doctors, improving efficiency and patient care. `,
   },
 ];
 </script>

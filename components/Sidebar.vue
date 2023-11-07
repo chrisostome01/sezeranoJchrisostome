@@ -31,7 +31,7 @@
               I am experienced in developing
               <a href="#" class="tagline">Web Application</a> &
               <a href="#" class="tagline">Mobile App</a>
-              applications and the <a href="#" class="tagline">Backend [NodeJs]</a>
+              and the <a href="#" class="tagline">Backend,</a> mostly with <a class="tagline">Nodejs</a> 
             </p>
           </div>
           <div v-motion-slide-visible-once-left class="pt-12 md:hidden">

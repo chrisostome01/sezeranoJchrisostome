@@ -10,11 +10,17 @@
         class="space-y-12 text-lg max-w-3xl font-medium text-gray-400 leading-9 my-6"
       >
         <p class="mb-3">
-          Am Sezerano Jean Chrysostome, I love coding, I've got a thing for Web
-          apps, AI, and Mobile apps - they're my playground. But here's the real
-          scoop: I'm all about learning together and collaborating on cool
-          projects! I find joy in crafting digital experiences that make life
-          easier and more enjoyable, scroll to projects to see projects that I been working 🚀
+          I am a certified full-stack developer with over three years of
+          experience in full-stack development, database administration. I am
+          known for my creative problem-solving abilities and my dedication to
+          being a team player. I have a strong background in technology stacks,
+          including PREN, MREN, MEAN, Next.js, and PHP, with a deep passion for
+          Java due to its robustness and versatility. I am particularly
+          passionate about Cloud Computing, with a focus on the AWS platform. My
+          commitment to staying up-to-date with the latest technology trends
+          allows me to contribute effectively to modern development challenges.
+          I look forward to the opportunity to work together and create
+          exceptional solutions.
         </p>
       </div>
       <div class="mt-10">
@@ -43,7 +49,7 @@
           class="flex items-center font-medium gap-4 text-white"
           aria-label="See More About Me"
           target="_blank"
-          href="/resume.pdf"
+          href="/chrysosotme_cv.pdf"
           ><span>Download my resume.</span
           ><svg
             width="24"
