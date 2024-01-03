@@ -40,7 +40,7 @@
               class="py-3 cursor-pointer group flex items-center gap-4 text-white"
               v-for="(link, index) in [
                 'about',
-                'projects',
+                'experiences',
                 'contact',
               ]"
               :key="index"
