@@ -33,9 +33,8 @@
           <div
             class="flex items-center gap-3"
             v-for="info in [
-              { key: 'First Name', value: 'Jean Chrysostome' },
-              { key: 'Last Name', value: 'Sezerano' },
-              { key: 'Phone', value: '(+250)789154432' },
+              { key: 'First Name', value: 'Sezerano' },
+              { key: 'Last Name', value: 'Jean Chrysostome' },
               { key: 'Email', value: 'sezeranochrisostom123@gmail.com' },
             ]"
           >

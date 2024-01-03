@@ -25,6 +25,7 @@
               Get In Touch.
             </h4>
             <a
+              target="_blank"
               href="mailto:sezeranochrisostom123@gmail.com"
               v-motion-slide-visible-bottom
               class="px-6 my-4 py-3 border-green-500 text-green-500 cursor-pointer font-medium rounded-[3px] hover:bg-gray-800 bg-opacity-50 border bogr"
