@@ -10,7 +10,7 @@
           >
             <span class="text-green-500 font-semibold text-lg">02.</span>
             <span class="font-semibold text-white text-xl md:text-base truncate"
-              >Projects</span
+              >Experiences</span
             >
             <span class="w-1/3 bg-gray-700 h-[1px] md:hidden"></span>
           </div>
