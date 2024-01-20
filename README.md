@@ -13,6 +13,6 @@ const chrysostome = {
 
 ### ℹ️ About me.
 
-🌟 I've got a thing for Web apps, AI, and Mobile apps – they're my playground. But here's the real scoop: I'm all about learning together and collaborating on cool projects! I find joy in crafting digital experiences that make life easier and more enjoyable.
+I've got a thing for Web apps, AI, and Mobile apps – they're my playground. But here's the real scoop: I'm all about learning together and collaborating on cool projects! I find joy in crafting digital experiences that make life easier and more enjoyable.
 
 [sezeranochrysostome.dev 🙏🏼](http://sezeranochrysostome.dev/)
