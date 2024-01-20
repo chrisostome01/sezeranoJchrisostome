@@ -5,7 +5,7 @@
         <div class="flex items-center justify-between w-full">
           <div
             v-motion-slide-visible-left
-            id="projects"
+            id="experience"
             class="section w-full flex items-center gap-4"
           >
             <span class="text-green-500 font-semibold text-lg">02.</span>
