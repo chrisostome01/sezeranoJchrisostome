@@ -8,7 +8,7 @@
     >
       <div class="max-w-5xl mx-auto">
         <About />
-        <Projects />
+        <Experiences />
         <Contact />
       </div>
     </div>
