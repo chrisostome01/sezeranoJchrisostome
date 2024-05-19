@@ -4,7 +4,7 @@
 const chrysostome = {
   fullname: "Sezerano Jean Chrysostome",
   email: 'sezeranochrisostom123@gmail.com',
-  languages: [Javascript, Typescript, Java, PHP, ],
+  languages: [Javascript, Typescript, Rust, Java, PHP, ],
   misc: [Docker, ... ]
 }
 ```
